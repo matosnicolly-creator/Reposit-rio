@@ -2,7 +2,87 @@
   {
     "id": "5", 
     "nome": "Pão de Queijo", 
-    "img": "bolo_laranja.jpg", 
-    "ingredientes": ["2 xícaras de polvilho doce","1 xícara de leite","1 xícara de óleo","1 colher (chá) de sal","1 ovo","2 xícara de queijo ralado",], 
-    "utensilios": ["1 tigela grande","1 panela","1 colher","1 xícara","1 forma"], passos: ["em uma panela, aqueça o leite, o óleo e o sal até começar a ferver","Despeje essa mistura quente sobre o polvilho em uma tigela e misture bem","acrescente o queijo ralado e misture até formar uma massa homogênea"."modele bolinhas com as mãos","coloque em uma forma (não precisa untar)","leve ao forno pré-aquecido a 180 °C por cerca de 25 a 30 minutos, até dourar"], 
-    "videoUrl": "https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/laranja.mp4?raw=true; },
+    "img": "pao_queijo.jpg", 
+    "ingredientes": ["2 xícaras de polvilho doce","1 xícara de leite","1 xícara de óleo","1 colher (chá) de sal","1 ovo","2 xícara de queijo ralado"], 
+    "utensilios": ["1 tigela grande","1 panela","1 colher","1 xícara","1 forma"], 
+    "passos": ["Em uma panela, aqueça o leite, o óleo e o sal até começar a ferver","Despeje essa mistura quente sobre o polvilho em uma tigela e misture bem","Acrescente o queijo ralado e misture até formar uma massa homogênea"."modele bolinhas com as mãos","coloque em uma forma (não precisa untar)","leve ao forno pré-aquecido a 180 °C por cerca de 25 a 30 minutos, até dourar"], 
+    "videoUrl": "https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/laranja.mp4?raw=true"
+  },
+  {
+    "id": "6",
+    "nome": "Mousse de Marácuja",
+    "img":"mousse_maracuja",
+    "ingredientes":["1 lata de leite condensado","1 caixa de creme de leite","1/2 xícara de suco de maracujá"],
+    "utensilios":["Liquidificador","Colher","Tigela","Copo medidor","Geladeira"],
+    "passos":["No liquidificador, coloque o leite condensado, o creme de leite e o suco de maracujá.","Bata por 2 a 3 minutos até ficar bem cremoso.","Despeje em um recipiente ou em taças individuais.","Leve à geladeira por pelo menos 2 a 4 horas até firmar."],
+     "videoUrl": "https://raw.githubusercontent.com/jerog1971/projeto-mobile/main/videos/laranja.mp4?raw=true"
+  }]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
